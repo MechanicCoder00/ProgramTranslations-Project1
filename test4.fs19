@@ -1,0 +1,8 @@
+x xy xyz abcdefgh xY aBCDEFG a1234567
+abcd #testing comment
+1 12 23 45 12345678
+#another comment
+= < > <= >= == :  + - * / % . ( ) , { } ; [ ]
+start stop iterate void var return in out program cond then let
+
+#yet another comment
